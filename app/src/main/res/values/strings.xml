@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MyCameraApp</string>
+    <string name="take_pic_text_button">TAKE A PIC</string>
+</resources>
